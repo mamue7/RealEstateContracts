@@ -43,7 +43,10 @@ path/to/zokrates export-verifier
 # Contract Addresses
 
 The contract has been deployed to the rinkeby network.
-The address of the contract is 0x0eeD8Fe409b39CffcD3f8C5c1E0ae0Eb3099046a. The ABI of the contract can be found in /eth-contracts/build/contracts(SolnSquareVerifier.json.
+The address of the contract SolnSquareVerifier.sol is 0x0eeD8Fe409b39CffcD3f8C5c1E0ae0Eb3099046a. 
+The ABI of the contract can be found in /eth-contracts/build/contracts(SolnSquareVerifier.json.
+
+The address of the contract Verifier.sol is 0xc1876F4110EBcda86A54113dFE91B126C4b04888.
 
 # OpenSea Marketplace
 
